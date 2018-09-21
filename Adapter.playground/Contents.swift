@@ -54,7 +54,7 @@ class HobbitGuardian: GuardianOfTheCitadel {
     
     override func march() {
         hobbit.walk()
-        print("Hobbit realizes he is few steps behind the formation")
+        print("Hobbit realizes he is few steps behind the formation!")
         hobbit.walk()
     }
 }
