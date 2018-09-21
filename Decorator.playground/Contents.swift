@@ -8,7 +8,7 @@ protocol Character {
 // Personolize Component
 struct Kollokvium: Character {
     func getHealth() -> Int {
-        return 100
+        return 9999
     }
 }
 
